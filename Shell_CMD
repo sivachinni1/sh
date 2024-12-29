@@ -1,0 +1,10 @@
+#!/bin/bash
+
+# To see the files use the command
+ls
+# To create a file 
+touch file_name
+# To create directory
+mkdir dir_name
+# To see the present directory node
+pwd
