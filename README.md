@@ -1,1 +1,4 @@
-# sh
+#!/bin/bash
+
+touch sai
+cd sai
