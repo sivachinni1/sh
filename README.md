@@ -2,3 +2,4 @@
 
 touch sai
 cd sai
+mkdir sai
